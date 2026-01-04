@@ -1,0 +1,1 @@
+export default function NotFound(){return <div className="container"><div className="card">Stránka nenalezena. <a href="/" className="btn primary" style={{marginTop:10}}>Domů</a></div></div>; }
